@@ -6,9 +6,8 @@ A little program to be able to compare 2 CSV files between them and to see where
 Please find a description of the files below :
 
  - [comparison.py](https://github.com/ngenne/comp2csv/blob/master/comparison.py)
- - Windows executable
-		- __dist__ 
-		- __build__
+ - _build_/comparaison_v2
+ - _dist_
 
 All files included in __build__ and __dist__ directories are necessary to load the program which working on Windows (all versions).
 Please pay attention to have installed Python3 on your system to make the script working.
@@ -28,5 +27,5 @@ Open a CMD prompt (on Windows) and write this command :
 
 	> comparison.exe file1 file2
 Make sure to write the abolute path (between double quotes " ") to the _file1_ and _file2_.
-Same as Python script part above, it will create an output file named "output.txt" in place of the directory you launched the script.
+Same as Python script part above, it will create an output file named "output.txt" in place of the directory you launched the exe file.
 
