@@ -5,7 +5,7 @@ Created on Tue Nov  5 10:44:54 2019
 @author: NGENNE
 """
 
-### COMPARAISON ##
+### COMPARISON ##
 
 import argparse
 
@@ -30,4 +30,4 @@ output.close()
 
 
 
-# si le nombre de lignes --- est égal au nombre de lignes +++, alors il n'y pas de différences entre les deux fichiers
+# if the number of lines --- is equal to the number of lines +++, so there is no differences between files ;)
