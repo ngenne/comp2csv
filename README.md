@@ -6,10 +6,9 @@ A little program to be able to compare 2 CSV files between them and to see where
 Please find a description of the files below :
 
  - [comparison.py](https://github.com/ngenne/comp2csv/blob/master/comparison.py)
- - _build_/comparaison_v2
- - _dist_
+ - __comparison.zip__
 
-All files included in __build__ and __dist__ directories are necessary to load the program which working on Windows (all versions).
+Into the ZIP file, all files included in __build__ and __dist__ directories are necessary to load the program which working on Windows (all versions).
 Please pay attention to have installed Python3 on your system to make the script working.
 
 
