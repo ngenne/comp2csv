@@ -14,7 +14,7 @@ Please pay attention to have installed Python3 on your system to make the script
 
 
 # Usage
-You need to compare differences between two CSV files about their content. So use this script to make 
+You need to compare differences between two CSV files about their content. So use this script to make it.
 ## Python script
 Open a Terminal or a CMD prompt and write this command :
 
